@@ -52,11 +52,18 @@ Sumamos la resitencia de cada circuito y al final sumamos de los 3 circuitos ya 
 ### SECCIÓN 5–4 Aplicación de la ley de Ohm
 
 19.¿Cuál es la corriente presente en cada circuito de la figura 5-74?
+[![19-5-1.png](https://i.postimg.cc/T2C2G3P1/19-5-1.png)](https://postimg.cc/CdnpsYkp)
+[![19-5-2.png](https://i.postimg.cc/YqPpGDYw/19-5-2.png)](https://postimg.cc/dL8MgB5W)
 
-21.Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
+21.Se conectan tres resistores de 470Ω en serie con una fuente de 48 V.
 (a) ¿Cuál es la corriente en el circuito?
+[![21-5-a.png](https://i.postimg.cc/T3v44rXD/21-5-a.png)](https://postimg.cc/svKmBGxj)
 (b) ¿Cuál es el voltaje a través de cada resistor?
+[![21-5B.png](https://i.postimg.cc/B642RBSX/21-5B.png)](https://postimg.cc/gwtwZR6W)
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
 
 23.¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+[![23-1.png](https://i.postimg.cc/bwkvtGbT/23-1.png)](https://postimg.cc/tsRy04BZ)
+[![23-2.png](https://i.postimg.cc/XJ7NmQPH/23-2.png)](https://postimg.cc/hJ6q7bcT)
+[![23-3.png](https://i.postimg.cc/d1HQYGPq/23-3.png)](https://postimg.cc/wyNY5yjP)
 
