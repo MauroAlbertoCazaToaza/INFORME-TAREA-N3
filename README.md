@@ -67,3 +67,70 @@ Sumamos la resitencia de cada circuito y al final sumamos de los 3 circuitos ya 
 [![23-2.png](https://i.postimg.cc/XJ7NmQPH/23-2.png)](https://postimg.cc/hJ6q7bcT)
 [![23-3.png](https://i.postimg.cc/d1HQYGPq/23-3.png)](https://postimg.cc/wyNY5yjP)
 
+### SECCIÓN 5–5 Fuentes de voltaje en serie
+
+25.En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
+(a) ¿Cuál es la resistencia de R4?
+[![23-a.png](https://i.postimg.cc/DzvKh9DQ/23-a.png)](https://postimg.cc/LJbWBbmh)
+
+(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
+
+[![23-b-1.png](https://i.postimg.cc/76N9kRFz/23-b-1.png)](https://postimg.cc/njCBK3cV)
+[![23-b-2.png](https://i.postimg.cc/WzHMpcXd/23-b-2.png)](https://postimg.cc/zHTLp6mN)
+(c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+No
+
+27.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+14V
+
+29.Determine el voltaje de fuente total en cada circuito de la figura 5-79.
+ (a) 23 V (b) 35 V (c) 0 V
+
+### SECCIÓN 5–6 Ley del voltaje de Kirchhoff
+31.Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
+Tenemos que hacer una resta por tanto el ulimo resistor tendra una caida de voltaje de 4V
+
+33. En el circuito de la figura 5-81, determine la resistencia de R4
+[![27.png](https://i.postimg.cc/rwKW8NZK/27.png)](https://postimg.cc/NKvLDmcc)
+
+35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
+corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
+[![35-A.png](https://i.postimg.cc/pTfCvJGg/35-A.png)](https://postimg.cc/bDvkHkjT)
+[![36-A.png](https://i.postimg.cc/4dFXPpZh/36-A.png)](https://postimg.cc/xJMrTJX0)
+[![36-B.png](https://i.postimg.cc/QxFJfDgB/36-B.png)](https://postimg.cc/kBdS5kp9)
+[![37-C.png](https://i.postimg.cc/1tYNFgjv/37-C.png)](https://postimg.cc/CBk1TKY8)
+
+### SECCIÓN 5–7 Divisores de voltaje
+*37. La resistencia total de un circuito es de 560Ω. ¿Qué porcentaje del voltaje total aparece a través de un
+resistor de 27Ω que forma parte de la resistencia total en serie?
+4.82%
+39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+Salida A 5 15 V
+Salida B 5 10.6 V
+Salida C 5 2.62 V
+
+*41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
+bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+
+
+43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+[![43-5.png](https://i.postimg.cc/wjzq2hn7/43-5.png)](https://postimg.cc/gnMbk6zW)
+
+
+*45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
+10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe
+ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
+ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
+
+### SECCIÓN 5–8 Potencia en circuitos en serie
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+. 54.9 mW
+
+
+
+
+
+
+
+
