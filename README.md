@@ -120,12 +120,55 @@ bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
 *45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
 10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe
 ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
-ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+ajuste de resistencia mínima (cero). <br>
+La corriente tiene que ser de 10 mA.<br>
 
 
-### SECCIÓN 5–8 Potencia en circuitos en serie
-47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
-. 54.9 mW
+### SECCIÓN 5–8 Potencia en circuitos en serie<br>
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.<br>
+. 54.9 mW<br>
+
+
+49. Encuentre RT en la figura 5-89.
+
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+
+
+55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+
+57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+
+
+59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
+Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
+De ser así, identifíquelo
+
+
+
+### SECCIÓN 6–1 Resistores en paralelo
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
+
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+
+5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?
+
+
+
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
+
+
+
 
 
 
