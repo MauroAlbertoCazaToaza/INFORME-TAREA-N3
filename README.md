@@ -125,47 +125,60 @@ La corriente tiene que ser de 10 mA.<br>
 
 
 ### SECCIÓN 5–8 Potencia en circuitos en serie<br>
-47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.<br>
+47.¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.<br>
 . 54.9 mW<br>
+[![47-5.png](https://i.postimg.cc/pdxZ78Lj/47-5.png)](https://postimg.cc/RWsKJWfC)
 
+49.Encuentre RT en la figura 5-89.
+[![49-5.png](https://i.postimg.cc/fTmqrMf6/49-5.png)](https://postimg.cc/9rXB45Sp)
+12.5 MΩ
+51.En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+[![51-5.png](https://i.postimg.cc/yxFhv8Cj/51-5.png)](https://postimg.cc/0KyJNxQK)
+VA = 100V 
+VB = 57.7V 
+VC = 15.2V 
+VD = 7.58 V
 
-49. Encuentre RT en la figura 5-89.
+53.En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+[![53-5.png](https://i.postimg.cc/cLKCS5ry/53-5.png)](https://postimg.cc/9DhCPbdJ)
+VA = 14.82 V
+VB = 12.97 V
+VC = 12.64 V
+VD = 9.34 V
 
-51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+55.Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
 
-53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+ (a) R4 está abierto
+ (b) Corto de A a B
 
+57.La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+La tabla 5-1 es correcta
 
-55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
-
-57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
-
-
-59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
+59.Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
 Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
 De ser así, identifíquelo
-
-
+Sí. Hay un corto entre la clavija 4 y el lado superior de R11
 
 ### SECCIÓN 6–1 Resistores en paralelo
-1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
-
-3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+1.Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
 
 
-5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+3.Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 
 
-7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+5.El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+
+7.¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
 interruptor?
 
 
 
-9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+9.Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
 
 
-11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
+11.En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
 
 
 
