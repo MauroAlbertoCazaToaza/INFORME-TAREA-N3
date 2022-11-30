@@ -1,4 +1,13 @@
 # INFORME-TAREA-N3
+# OBJETIVO GENERAL
+
+# OBJETIVOS ESPECIFICOS
+
+
+# MARCO TEÓRICO
+
+
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ### SECCIÓN 5–1 Resistores en serie
 1.Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B
@@ -300,7 +309,11 @@ c) R2-4=518Ω
 d) R1-4=422Ω 
 
 
+# VIDEO
 
+# CONCLUSIONES
+
+# BIBLIOGRAFÍA
 
 
 
