@@ -267,23 +267,37 @@ b) 52.5mW
 
 *41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.
 
+P1=1.25W
+I2=75mA
+I1= 125mA
+Vs=10V
+R1=80Ω
+R2=133Ω
+
 # SECCIÓN 6–10 Localización de fallas
+
+
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
-
+682 mA, 3.41 A
 45. ¿Qué está mal con el circuito de la figura 6-86?
-
+El resistor de 8.2kΩ está abierto
 
 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
 asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de
 la tarjeta. Describa el procedimiento en un formato detallado paso a paso
 
-
+R1 abierto: R = 3.3 kΩ
+R2 abierto: R = 1.0 kΩ
 
 
 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
-
+Corto entre clavijas 3y4
+a) R1-2 = 940Ω
+b) R2-3 518Ω
+c) R2-4=518Ω
+d) R1-4=422Ω 
 
 
 
